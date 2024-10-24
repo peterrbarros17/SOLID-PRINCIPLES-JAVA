@@ -14,4 +14,4 @@ This repository contains examples and studies on SOLID principles and common des
 
 - Clone the repository:
   ```bash
-  git clone https://github.com/yourusername/solid-design-patterns-study.git](https://github.com/peterrbarros17/SOLID-PRINCIPLES-JAVA
+  git clone https://github.com/peterrbarros17/SOLID-PRINCIPLES-JAVA
